@@ -11,7 +11,7 @@
   "title": "xxxYour User Friendly Name for MyIG Here",
   "status": "draft",
   "experimental": false,
-  "date": "2021-07-26T15:37:18+00:00",
+  "date": "2021-07-26T15:50:23+00:00",
   "publisher": "xxxYour Work Group",
   "contact": [
     {
@@ -342,6 +342,11 @@
           "nameUrl": "downloads.html",
           "title": "Useful Downloads",
           "generation": "html"
+        },
+        {
+          "nameUrl": "intro.html",
+          "title": "Food Allergies",
+          "generation": "markdown"
         },
         {
           "nameUrl": "changes.html",
