@@ -56,6 +56,11 @@
         <title value="Useful Downloads"/>
         <generation value="html"/>
       </page>
+      <page>
+        <nameUrl value="intro.html"/>
+        <title value="Food Allergies"/>
+        <generation value="html"/>
+      </page>
     <!-- change history page -->
       <page>
         <nameUrl value="changes.html"/>
