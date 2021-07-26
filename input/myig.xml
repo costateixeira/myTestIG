@@ -59,7 +59,7 @@
       <page>
         <nameUrl value="intro.html"/>
         <title value="Food Allergies"/>
-        <generation value="html"/>
+        <generation value="markdown"/>
       </page>
     <!-- change history page -->
       <page>
